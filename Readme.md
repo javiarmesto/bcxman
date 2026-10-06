@@ -1,3 +1,11 @@
+> **Fork context:** this repository is a fork of [Theil-IT/bcxman](https://github.com/Theil-IT/bcxman). The documentation below retains the original project's authorship. Use the parent repository for its published releases and support guidance; this audit does not establish a separate maintained distribution or promise synchronization.
+>
+> [Compare this fork with its parent](https://github.com/Theil-IT/bcxman/compare/main...javiarmesto:bcxman:main). The comparison shows the current differences; fork-specific behavior must be assessed from those changes. Static documentation review: **6 October 2026**; no build, installation or service invocation performed.
+
+# BCXMAN · AL translation example
+
+Business Central extension for working with translation projects and terms. The manifest declares BC application **26.0.0.0**, runtime **15.2** and BCXMAN version **16.0.0.0**. Start with [.assets/Setup.md](.assets/Setup.md), then create a translation project. Compile/publish with AL Language in your own compatible sandbox after configuring `launch.json` and downloading symbols. The manifest's “Open-Source” description and `Warrenty.txt` do not establish an applicable reuse license; that remains unresolved in this audit.
+
 
 # [See Full Documentation here](/.assets/Setup.md)
 
